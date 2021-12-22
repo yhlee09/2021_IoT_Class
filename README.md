@@ -5,12 +5,12 @@
 ##목차
 
 ---
-*gpio_digital
-*gpio_pwm
-*high_level_sensor
-*display
-*communication
-*multmedia
-*web
+*gpio_digital  
+*gpio_pwm  
+*high_level_sensor  
+*display  
+*communication  
+*multmedia  
+*web  
 
 
